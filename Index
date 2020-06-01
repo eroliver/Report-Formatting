@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+    <title>Report</title>
+
+</head>
+<body>
+    <!--Use this div to insert -->
+    <div id="Data">
+         </div>
+    <script src="script.js"></script>
+</body>
